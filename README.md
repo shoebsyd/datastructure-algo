@@ -1,1 +1,1 @@
-# -datastructure-algo
+# datastructure-algo
